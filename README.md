@@ -1,47 +1,36 @@
 # Hi there, I'm Wanjui Favour 👋
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity enthusiast and a versatile developer with a knack for building secure and efficient applications. My journey in the tech world has equipped me with a diverse skill set, and I'm always eager to learn more and take on new challenges.
+Welcome to my GitHub profile! I'm an **intermediate software developer** and a **junior software QA engineer** with a passion for building robust, efficient, and secure applications. I enjoy ensuring quality and reliability in software through thorough testing and continuous improvement.
 
 ## 🔍 About Me
 
-- 🎓 **Cybersecurity Enthusiast**: Recently graduated from an online cybersecurity boot camp, Cohort 8.
-- 💻 **Developer**: Proficient in Dart, Java, Python, and experienced with the Flutter framework.
-- 🌱 **Currently Exploring**: Advanced cybersecurity techniques and the latest in app development using Flutter.
-- 🤝 **Team Player**: Enjoy collaborating with others to create innovative solutions and contribute to meaningful projects.
+* 💻 **Software Developer**: Skilled in JavaScript, TypeScript, React, and Express.js, with a knack for building scalable front-end and back-end applications.
+* 🛡️ **Software QA**: Experienced in end-to-end testing, test case development, and integrating QA processes to improve release quality.
+* ☁️ **Certified Cloud Practitioner**: Proficient in creating cloud solutions with AWS while adhering to cloud security best practices.
+* 🔐 **Cybersecurity Enthusiast**: Knowledgeable in foundational cybersecurity principles and their applications in software development and QA.
+* 🎓 **Lifelong Learner**: Constantly exploring the latest technologies and methodologies in software development, testing, and cloud computing.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: 
-  - Dart
-  - Java
-  - Python
-- **Frameworks**:
-  - Flutter
-- **Tools**:
-  - Firebase
-  - Node.js
-  - Socket.io
-- **Other Skills**:
-  - Web Development (HTML, CSS, JavaScript)
-  - Cybersecurity Fundamentals
+* **Languages**: JavaScript, TypeScript, Python
+* **Frameworks**: React, Next.js, Express.js
+* **Cloud**: AWS Cloud (Certified Practitioner)
+* **QA & Testing Tools**: Cypress, Selenium, Jest, Postman
+* **Other Skills**:
+   * Version Control: Git & GitHub
+   * UI Design: Tailwind CSS
+   * Linux
 
-## 🌟 Projects
+## 🌟 Hobbies
 
-##    MentalHealth-Test
-A full-stack web application designed to support mental wellness through journaling, anonymous peer support, resource recommendations, and mood tracking. Developed using Node.js, Socket.io, and Firebase for real-time communication and data storage.
+* 📸 **Photography**: Capturing moments and visual storytelling.
+* 📰 **Reading**: Diving into mind-blowing articles and cybersecurity documentaries.
 
-##    Flutter Apps
+## 📫 Let's Connect
 
+* Email: wanjui.dev@gmail.com
+* LinkedIn: [Wanjui Favour](https://linkedin.com/in/wanjui-favour)
+* GitHub: [@wanjuifavour](https://github.com/wanjuifavour)
+* Twitter: [@WanjuiFavour](https://twitter.com/WanjuiFavour)
 
-###   Java & Python Projects
-
-
-📫 How to Reach Me
-
-- Email: favorwanjui@gmail.com
-- LinkedIn: https://www.linkedin.com/in/wanjuifavour
-- Twitter: @wanjuifavour (https://twitter.com/wanjuifavour)
-
-✨ Fun Fact
-
-When I'm not coding or diving into cybersecurity, I enjoy [hiking, reading, playing chess].
+✨ **Fun Fact**: I enjoy finding innovative ways to bridge the gap between development and QA, ensuring every application is both functional and flawless!
