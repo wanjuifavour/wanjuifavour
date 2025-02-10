@@ -28,9 +28,8 @@ Welcome to my GitHub profile! I'm an **intermediate software developer** and a *
 
 ## 📫 Let's Connect
 
-* Email: wanjui.dev@gmail.com
+* Email: contact@wanjuifavour.me
 * LinkedIn: [Wanjui Favour](https://linkedin.com/in/wanjui-favour)
 * GitHub: [@wanjuifavour](https://github.com/wanjuifavour)
-* Twitter: [@WanjuiFavour](https://twitter.com/WanjuiFavour)
 
 ✨ **Fun Fact**: I enjoy finding innovative ways to bridge the gap between development and QA, ensuring every application is both functional and flawless!
